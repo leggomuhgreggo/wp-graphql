@@ -1,0 +1,15 @@
+{
+  "public": {
+    "uploads": "/wordpress/uploads",
+    "amazonS3": false
+  },
+  "private": {
+    "wp_prefix": "wp_",
+    "database": {
+      "name": "tpr_db",
+      "username": "root",
+      "password": "root",
+      "host": "127.0.0.1"
+    }
+  }
+}
